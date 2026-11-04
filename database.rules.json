@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "rooms": {
+      "$code": {
+        ".read": "$code.matches(/^[ABCDEFGHJKMNPQRSTUVWXYZ23456789]{4}$/)",
+        ".write": "$code.matches(/^[ABCDEFGHJKMNPQRSTUVWXYZ23456789]{4}$/)"
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "omok-algkagi",
+  "private": true,
+  "type": "module",
+  "description": "정적 파일만으로 동작하는 오목 알까기 웹 게임 (빌드 불필요). Node는 로직 테스트용으로만 사용합니다."
+}
